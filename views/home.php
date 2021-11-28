@@ -125,7 +125,7 @@
                             <p>Price:<?php echo $product['price'] ?>VND</<p>
                         </div>
                     </div>
-                    <div class="card" style="width: 18rem; margin: 20px">
+                    <!-- <div class="card" style="width: 18rem; margin: 20px">
                         <a href="index.php?controller=productController&pid=<?php echo $product['product_id'] ?>&action=index">
                             <img class="card-img-top" style = " object-fit:contain"src="<?php echo $product['image'] ?>" alt="" height="150" />
                         </a>
@@ -133,7 +133,7 @@
                             <h5 class="card-title"><?php echo $product['name'] ?></h5>
                             <p class="card-text">Price:<?php echo $product['price'] ?>VND</p>
                         </div>
-                    </div>
+                    </div> -->
 
                 <?php } ?>
             </div>
