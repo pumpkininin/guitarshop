@@ -2,10 +2,10 @@
 
 class orderModel
 {
-    private $hostname = 'localhost';
-    private $username = 'root';
-    private $password = '';
-    private $dbname = 'guitar shop';
+    	private $hostname = 'us-cdbr-east-04.cleardb.com';
+	private $username = 'b68cc0612ad287';
+	private $password = '5a36e9c7';
+	private $dbname = 'heroku_e395b5c0fbba471';
 
     private $con = null;
     private $result = null;
