@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Guitar shop</title>
-    <link href="./vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./vendot/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="./css/font-awesome.min.css" rel="stylesheet">
     <link href="./css/prettyPhoto.css" rel="stylesheet">
     <link href="./css/price-range.css" rel="stylesheet">
@@ -114,7 +114,7 @@
         <div class="product-box-container" >
             <div class="row" style="justify-content:space-around">
                 <?php foreach ($products as $product) { ?>
-                    <!-- <div class="col-md-4 product-grid">
+                    <div class="col-md-4 product-grid">
                         <a href="index.php?controller=productController&pid=<?php echo $product['product_id'] ?>&action=index">
                             <img src="<?php echo $product['image'] ?>" alt="" height="150" />
                         </a>
@@ -124,7 +124,7 @@
                         <div class="product-price">
                             <p>Price:<?php echo $product['price'] ?>VND</<p>
                         </div>
-                    </div> -->
+                    </div>
                     <div class="card" style="width: 18rem; margin: 20px">
                         <a href="index.php?controller=productController&pid=<?php echo $product['product_id'] ?>&action=index">
                             <img class="card-img-top" style = " object-fit:contain"src="<?php echo $product['image'] ?>" alt="" height="150" />
@@ -168,8 +168,8 @@
   }(document, 'script', 'facebook-jssdk'));
 </script>
     
-    <script src="./vendor/jquery/jquery.min.js"></script>
-    <script src="./vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="./vendot/jquery/jquery.min.js"></script>
+    <script src="./vendot/bootstrap/js/bootstrap.min.js"></script>
     <style>
             .chat-icon {
         display: block;
