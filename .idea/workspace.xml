@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="057a1b0f-92be-46e3-8e2c-eab871ce019b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <execution />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="ProjectId" id="1W4tgwyBmHNwaE2R6S3TM6v8W7y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb&#10;mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\Shoes01\views\users" />
+      <recent name="C:\laragon\www\Shoes01\controllers" />
+      <recent name="C:\laragon\www\Shoes01\views\user" />
+      <recent name="C:\laragon\www\Shoes01\views\products" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\Shoes01" />
+      <recent name="C:\laragon\www\Shoes01\models" />
+      <recent name="C:\laragon\www\Shoes01\controllers" />
+      <recent name="C:\laragon\www\Shoes01\views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="057a1b0f-92be-46e3-8e2c-eab871ce019b" name="Default Changelist" comment="" />
+      <created>1578420810130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578420810130</updated>
+      <workItem from="1578420817193" duration="10291000" />
+      <workItem from="1578443993079" duration="4426000" />
+      <workItem from="1578508734285" duration="269000" />
+      <workItem from="1578511330056" duration="1143000" />
+      <workItem from="1578514725886" duration="4134000" />
+      <workItem from="1578534036742" duration="3310000" />
+      <workItem from="1608474357646" duration="2080000" />
+      <workItem from="1608486019892" duration="6624000" />
+      <workItem from="1608510763602" duration="5261000" />
+      <workItem from="1608522246967" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608486096393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1608486096393" />
+    <state width="860" height="260" key="GridCell.Tab.0.bottom" timestamp="1608522299504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="860" height="260" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608522299504" />
+    <state width="860" height="260" key="GridCell.Tab.0.center" timestamp="1608522299504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="860" height="260" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608522299504" />
+    <state width="860" height="260" key="GridCell.Tab.0.left" timestamp="1608522299504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="860" height="260" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608522299504" />
+    <state width="860" height="260" key="GridCell.Tab.0.right" timestamp="1608522299504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="860" height="260" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608522299504" />
+  </component>
+</project>
